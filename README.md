@@ -1,3 +1,8 @@
+![C](https://img.shields.io/badge/Language-C-blue.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
+
+
 # Terminal Tic-Tac-Toe 
 
 A classic, command-line Tic-Tac-Toe game written entirely in C. This project was built to practice C programming fundamentals (2D arrays, game loops, matrix logic) and Git version control.
